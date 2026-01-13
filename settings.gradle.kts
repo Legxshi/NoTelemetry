@@ -1,4 +1,4 @@
-rootProject.name = "labymod4-addon-template"
+rootProject.name = "notelemetry"
 
 pluginManagement {
     val labyGradlePluginVersion = "0.6.0"

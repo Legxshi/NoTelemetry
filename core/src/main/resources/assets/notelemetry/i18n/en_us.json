@@ -1,0 +1,17 @@
+{
+    "notelemetry": {
+        "settings": {
+            "enabled": {
+                "name": "Enabled"
+            },
+            "header": {
+                "laby-telemetry": {
+                    "name": "No Laby telemetry"
+                }
+            },
+            "disableLabyTelemetry": {
+                "name": "Disable Laby telemetry"
+            }
+        }
+    }
+}
