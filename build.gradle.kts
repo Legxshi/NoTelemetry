@@ -38,4 +38,11 @@ subprojects {
 
     group = rootProject.group
     version = rootProject.version
+
+    plugins.withType<JavaPlugin> {
+        java {
+            sourceCompatibility = JavaVersion.VERSION_21
+            targetCompatibility = JavaVersion.VERSION_21
+        }
+    }
 }
