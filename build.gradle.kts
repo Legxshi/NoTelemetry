@@ -27,7 +27,7 @@ labyMod {
         displayName = "No Telemetry"
         author = "Legxshi"
         description = "Removes telemetry from the game."
-        minecraftVersion = "1.8.9<1.21.11"
+        minecraftVersion = "1.8.9<26.1.2"
         version = rootProject.version.toString()
     }
 }
