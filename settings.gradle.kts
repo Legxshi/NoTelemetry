@@ -1,10 +1,10 @@
 rootProject.name = "notelemetry"
 
 pluginManagement {
-    val labyGradlePluginVersion = "0.6.2"
+    val labyGradlePluginVersion = "0.8.0"
     buildscript {
         repositories {
-            maven("https://dist.labymod.net/api/v1/maven/release/")
+            maven("https://maven.laby.net/api/v1/maven/release/")
             maven("https://maven.neoforged.net/releases/")
             maven("https://maven.fabricmc.net/")
             gradlePluginPortal()
